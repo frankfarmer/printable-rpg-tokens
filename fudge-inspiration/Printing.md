@@ -1,6 +1,8 @@
-  Printer: Bambulab A1 mini
-  Nozzle: 0.2mm
-  Wall generator: arachne
+```
+Printer: Bambulab A1 mini                
+Nozzle: 0.2mm               
+Wall generator: arachne
+```
 
 # Notes
 
